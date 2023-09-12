@@ -1,12 +1,11 @@
-import 'package:ab_text_g/add_item_ledgerblance.dart';
+import 'package:ab_text_g/add_product_opening_stock.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-void main() => runApp(new MaterialApp(home: new add_ledger_openblance()));
+void main() => runApp(new MaterialApp(home: new add_product_stock()));
 
 class add_product extends StatefulWidget {
   const add_product({super.key});
-
   @override
   State<add_product> createState() => _add_productState();
 }
