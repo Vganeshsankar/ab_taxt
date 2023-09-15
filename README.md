@@ -1,16 +1,13 @@
 # ab_text_g
 
-A new Flutter project.
+functuon names
 
-## Getting Started
+job work product opening balance
 
-This project is a starting point for a Flutter application.
+add ledger opening balance
 
-A few resources to get you started if this is your first Flutter project:
+add product opening stock
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+add item job work product
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+add ledger openbalance
