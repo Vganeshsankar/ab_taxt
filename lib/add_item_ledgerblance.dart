@@ -46,7 +46,7 @@ class _add_ledger_openblanceState extends State<add_ledger_openblance> {
                         Container(
                           height: 21,
                           width: 253,
-                          child: Text(
+                          child: const Text(
                             'Add Item (Ledger Opening Balance)',
                             style: TextStyle(
                                 fontSize: 14,
@@ -54,7 +54,7 @@ class _add_ledger_openblanceState extends State<add_ledger_openblance> {
                                 color: Color(0xff5700BC)),
                           ),
                         ),
-                        Padding(
+                        const Padding(
                             padding: EdgeInsets.only(
                                 left: 330, top: 9, bottom: 6, right: 27)),
                         Container(

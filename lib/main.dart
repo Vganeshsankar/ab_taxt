@@ -1,8 +1,9 @@
-import 'package:ab_text_g/add_product_opening_stock.dart';
+import 'package:ab_text_g/job_work_product_opening_balance.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-void main() => runApp(new MaterialApp(home: new add_product_stock()));
+void main() => runApp(new MaterialApp(
+    debugShowCheckedModeBanner: false, home: new job_work_open_balance()));
 
 class add_product extends StatefulWidget {
   const add_product({super.key});
